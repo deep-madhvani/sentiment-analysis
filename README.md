@@ -1,2 +1,3 @@
 # sentiment-analysis
 Sentiment Analysis of Rate My Professors: Understanding Student Feedback
+In this project, our team collaborates to conduct sentiment analysis on student comments from Rate My Professors. We aim to develop a system that automatically analyzes and classifies sentiments expressed in these comments. By leveraging natural language processing and machine learning techniques, we preprocess and transform the text data, extracting valuable insights. Our goal is to provide professors and educational institutions with a tool to understand student sentiments and feedback, enabling them to enhance the quality of education by identifying strengths and areas for improvement.
